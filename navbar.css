@@ -1,0 +1,28 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.nv{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 300px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.w{
+  height: 50px;
+    background-color: black;
+    margin: 0px;
+
+}
+
+  .z{
+   color:white
+  }
+
+div a{
+  color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+}
